@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: "Proxima Nova";
-    src: url("fonts/ProximaNova-Bold.woff") format("woff");
+    src: url("../fonts/ProximaNova-Bold.woff") format("woff");
     font-weight: 700;
     font-style: normal;
     font-display: swap;
@@ -10,7 +10,7 @@
 
     @font-face {
     font-family: "Proxima Nova";
-    src: url("fonts/ProximaNova-Regular.woff") format("woff");
+    src: url("../fonts/ProximaNova-Regular.woff") format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -236,7 +236,7 @@
     top: 15px;
     left: 25px;
     z-index: 99;
-    background: url("img/About/search-icon.png") no-repeat;
+    background: url("../img/About/search-icon.png") no-repeat;
 }
 
 .search__input {
