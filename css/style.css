@@ -236,7 +236,7 @@
     top: 15px;
     left: 25px;
     z-index: 99;
-    background: url(img/About/search-icon.png) no-repeat;
+    background: url("img/About/search-icon.png") no-repeat;
 }
 
 .search__input {
